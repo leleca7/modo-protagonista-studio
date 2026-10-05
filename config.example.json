@@ -1,0 +1,14 @@
+{
+  "ai_provider": "ollama",
+  "ollama_url": "http://localhost:11434",
+  "ollama_model": "qwen3:4b",
+  "ffmpeg_path": "ffmpeg",
+  "default_voice_rate": -1,
+  "voice_volume": 0.10,
+  "ambient_volume": 0.62,
+  "tone_volume": 0.035,
+  "youtube_client_secret": "client_secret.json",
+  "youtube_token": "token.json",
+  "default_privacy": "private",
+  "similarity_regenerate_threshold": 0.78
+}
