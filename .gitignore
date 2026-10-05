@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+config.json
+output/
+data/projects.db
+data/policies/
+assets/backgrounds/*
+assets/ambient/*
+!assets/backgrounds/.gitkeep
+!assets/ambient/.gitkeep
+client_secret*.json
+token*.json
+.env
+.DS_Store
